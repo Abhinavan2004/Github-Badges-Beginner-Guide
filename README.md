@@ -34,8 +34,6 @@ Below is a table providing details about different GitHub badges:
 
 This guide is released under the **MIT License**, meaning you can freely use and share it.
 
-**Disclaimer:** Some information in this guide has been compiled from publicly available sources, including [Thinkright20/Profile-Badges](https://github.com/Thinkright20/Profile-Badges). This repository is meant to be an educational resource for developers.
-
 ---
 
 ## 🤝 Contributing
